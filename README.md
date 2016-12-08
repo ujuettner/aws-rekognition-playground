@@ -1,0 +1,1 @@
+Some random small Ruby programs to play around with [Amazon Rekognition](https://aws.amazon.com/rekognition/) - inspired by [this](https://medium.com/statuscode/how-to-detect-image-contents-from-ruby-with-amazon-rekognition-46a962cb040f#.tnfy6yxwi) blog post.
